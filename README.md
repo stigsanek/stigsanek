@@ -6,19 +6,19 @@ I'm currently employed by [Pikta](https://pikta.ru/).
 
 ### My responsibilities:
 
-- Developing the architecture of RPA solutions in Python.
-- Conducting code reviews.
-- Developing developer competencies in the team.
-- Administering a local instance of GitLab.
-- Developing RPA solutions for business process automation in Python.
-- Deployment and support of developed solutions.
+- Developing the architecture of RPA solutions in Python 👷.
+- Conducting code reviews 👀.
+- Developing developer competencies in the team 🎓.
+- Administering a local instance of GitLab 💻.
+- Developing RPA solutions for business process automation in Python 🐍.
+- Deployment and support of developed solutions 🔨.
 
 ### My accomplishments:
 
-- Creating internal Python libraries to interface with multiple SAP business systems, MS Outlook, logging, sending emails via SMTP.
-- Implementing Ci/CD (based on a local instance of GitLab) in the company.
-- Creating a basic RPA project template for Python.
-- Deploying a private pip repository.
+- Creating internal Python libraries to interface with multiple SAP business systems, MS Outlook, logging, sending emails via SMTP 🏭.
+- Implementing Ci/CD (based on a local instance of GitLab) in the company 🚀.
+- Creating a basic RPA project template for Python 🔥.
+- Deploying a private pip repository ⭐.
 
 Now I want to develop in backend development for the web.
 
