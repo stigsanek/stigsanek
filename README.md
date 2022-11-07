@@ -20,6 +20,6 @@ I'm currently employed by [Pikta](https://pikta.ru/).
 - Creating a basic RPA project template for Python 🔥.
 - Deploying a private pip repository ⭐.
 
-Now I want to develop in backend development for the web.
+Now I want to develop in backend development.
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=stigsanek&count_private=true&show_icons=true" alt="GitHub stats"><br>
