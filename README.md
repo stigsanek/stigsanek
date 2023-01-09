@@ -8,7 +8,6 @@ I'm currently employed by [Pikta](https://pikta.ru/).
 
 - Developing the architecture of RPA solutions in Python 👷.
 - Conducting code reviews 👀.
-- Developing developer competencies in the team 🎓.
 - Administering a local instance of GitLab 💻.
 - Developing RPA solutions for business process automation in Python 🐍.
 - Deployment and support of developed solutions 🔨.
