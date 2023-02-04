@@ -15,8 +15,8 @@ I'm currently employed by [Pikta](https://pikta.ru/).
 ### My accomplishments:
 
 - Creating internal Python libraries to interact with business systems 🏭.
+- API implementation for launching RPA solutions 🔥.
 - Implementing Ci/CD (based on a local instance of GitLab) in the company 🚀.
-- Creating a basic RPA project template for Python 🔥.
-- Deploying a private pip repository ⭐.
+- Multiple RPA projects ⭐.
 
 Now I want to develop in backend development.
