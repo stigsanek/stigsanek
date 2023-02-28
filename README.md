@@ -19,7 +19,7 @@ I'm currently employed by [Pikta](https://pikta.ru/).
 - Implementing Ci/CD (based on a local instance of GitLab) in the company 🚀.
 - Multiple RPA projects ⭐.
 
-### My skills
+### My skills:
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"></a>
