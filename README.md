@@ -2,7 +2,6 @@
 
 My name's Aleksandr.<br>
 I'm a software developer.<br>
-I'm currently employed by [Pikta](https://pikta.ru/).
 
 ### My responsibilities:
 
