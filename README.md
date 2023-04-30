@@ -2,7 +2,7 @@
 
 My name's Aleksandr.<br>
 I'm a Python developer.<br>
-I'm currently working on a project with a microservice architecture and developing the backend on Django and FastAPI frameworks 🚀.
+I am currently working on a project with microservice architecture on Django and FastAPI frameworks 🚀.
 
 ### My skills:
 
